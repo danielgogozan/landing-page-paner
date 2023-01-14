@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Shared lists
     description                           : Build grocery lists toghether with your family members or friends, in realtime, so that you are all in sync.
-    fontawesome_icon_name                 : slideshare
+    fontawesome_icon_name                 : share
 
   - title                                 : Track financials
     description                           : The costs are converted into visual graphs for a better understanding of your consumer behavior.
@@ -72,7 +72,7 @@ cover_overlay_transparency                : 0.45
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#21412B"
 
 link_color                                : "#316fe8"
 
@@ -80,8 +80,8 @@ app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#2E2E2B"
-feature_text_color                        : "#666666"
+feature_title_color                       : "#ffffff" # "#2E2E2B"
+feature_text_color                        : "ffffff" # "#666666"
 
 feature_icons_foreground_color            : "#F4924A"
 feature_icons_background_color            : "#ffd3b3"
