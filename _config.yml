@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Shared lists
     description                           : Build grocery lists toghether with your family members or friends, in realtime, so that you are all in sync.
-    fontawesome_icon_name                 : share-nodes
+    fontawesome_icon_name                 : slideshare
 
   - title                                 : Track financials
     description                           : The costs are converted into visual graphs for a better understanding of your consumer behavior.

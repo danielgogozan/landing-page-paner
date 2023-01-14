@@ -29,7 +29,7 @@ Third-party service providers used by the app:
 | Third Party | What is it used for? |
 | :--- | :--- |
 | [AdMob](https://support.google.com/admob/answer/6128543?hl=en) | Used to display ads |
-| [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)| Used to better understand the customer's experience within the app so that we can improve it.' |
+| [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)| Used to better understand the customer's experience within the app so that we can improve it. |
 | [Firebase Crashlytics](https://firebase.google.com/support/privacy/)| Used to detect crashes that users might encounter to fix them in future releases. |
 
 <br>
