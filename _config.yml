@@ -51,7 +51,7 @@ features                                  :
     description                           : Identify the categories of products that are most relevant and frequent for you.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Stay inform with widgets
+  - title                                 : Informed by widgets
     description                           : Widgets are a great way to have lists always at hand for faster access.
     fontawesome_icon_name                 : adjust
 
@@ -68,7 +68,7 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#F4924A"
-cover_overlay_transparency                : 0.5
+cover_overlay_transparency                : 0.25
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
@@ -84,7 +84,7 @@ feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#F4924A"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_background_color            : "#ffbe8f"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
