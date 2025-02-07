@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-Jan 14 2023
+Feb 05 2025
 
 # Privacy Policy
 Ilie-Daniel Gogozan built the Paner app as a Free app. This SERVICE is provided by Ilie-Daniel Gogozan at no cost and is intended for use as is.
@@ -56,17 +56,46 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 <br>
 
-## 5.0 Links to Other Sites
+## 5.0 In-App Purchases and Subscriptions  
+
+Our app offers **optional in-app purchases and subscriptions** to unlock premium features. Purchases are processed securely through the **Apple App Store** and managed via **RevenueCat**.  
+
+### What Data We Collect  
+When you make a purchase, we collect:  
+- **Subscription status** (active, expired, renewal date)  
+- **Purchase history** (to restore purchases if needed)  
+- **User account linking** (if purchases are tied to a login system)  
+
+We do **not** collect or store **credit card details**—all transactions are handled securely by Apple.  
+
+### How We Use This Data  
+- To **grant access** to premium features  
+- To **restore purchases** on new devices  
+- To **improve our services** and user experience  
+
+### Managing and Canceling Subscriptions  
+Subscriptions automatically renew unless canceled. You can manage or cancel your subscription at any time in your **Apple ID settings**:  
+
+🔗 **Go to Settings > Apple ID > Subscriptions**  
+
+### Third-Party Services (RevenueCat)  
+We use **RevenueCat** to verify purchases and manage subscriptions. RevenueCat’s privacy policy is available here:  
+
+🔗 [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
+
+<br>
+
+## 6.0 Links to Other Sites
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 <br>
 
-## 6.0 Changes to This Privacy Policy
+## 7.0 Changes to This Privacy Policy
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
 This policy is effective as of 2023-01-09.
 
 <br>
 
-## 7.0 Contact us
+## 8.0 Contact us
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at gogozandaniel@gmail.com or access [Paner website](https://danielgogozan.github.io/landing-page-paner/).
